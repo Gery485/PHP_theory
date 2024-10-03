@@ -51,5 +51,17 @@
 - https://www.w3schools.com/bootstrap5/index.php
 
 ## PHP
+---------
 
-###
+# PHP Basics Information Sheet
+
+### What is PHP?
+
+**PHP** stands for **"PHP: Hypertext Preprocessor"** (a recursive acronym). It is a widely-used, open-source scripting language designed for web development, though it can also be used as a general-purpose programming language. PHP is embedded in HTML and generally runs on the server side, allowing dynamic content generation on websites.
+
+### Basic PHP Syntax
+
+**PHP Script Tags**  
+   PHP code is embedded in HTML and must be enclosed within special delimiters:
+   ```php
+   <?php ... ?>
